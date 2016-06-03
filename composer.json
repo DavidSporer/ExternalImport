@@ -1,0 +1,11 @@
+{
+    "name": "infinigate/external-import",
+    "authors": [
+        {
+            "name": "dsporer",
+            "email": "david.sporer@infinigate.com"
+        }
+    ],
+    "type": "typo3-cms-extension",
+    "require": {}
+}
